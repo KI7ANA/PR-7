@@ -565,17 +565,9 @@ public class RegistrationActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 6 - DatePicker](images/image_6.png)
-
-*Рисунок 6. Выбор даты рождения с помощью DatePickerDialog*
-
-</div>
-
-<div align="center">
-
 <img width="356" height="777" alt="image" src="https://github.com/user-attachments/assets/6e42661c-8fec-478d-bca4-e563e66c7375" />
 
-*Рисунок 7. Выбор значения в Spinner*
+*Рисунок 6. Выбор значения в Spinner*
 
 </div>
 
@@ -583,7 +575,7 @@ public class RegistrationActivity extends AppCompatActivity {
 
 <img width="396" height="789" alt="image" src="https://github.com/user-attachments/assets/67ff3a77-311a-41dc-a786-bd952ca23447" />
 
-*Рисунок 8. Ошибки при неправильном заполнении формы*
+*Рисунок 7. Ошибки при неправильном заполнении формы*
 
 </div>
 
@@ -591,7 +583,7 @@ public class RegistrationActivity extends AppCompatActivity {
 
 <img width="373" height="789" alt="image" src="https://github.com/user-attachments/assets/e99fa6a7-824a-44fa-bf27-0b18a10eaf42" />
 
-*Рисунок 9. Успешная регистрация пользователя*
+*Рисунок 8. Успешная регистрация пользователя*
 
 </div>
 
